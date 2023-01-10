@@ -1,5 +1,6 @@
 # Tangy BBQ Tofu
 
+**Notes:** Try adding some tomato paste to the sauce.  
 
 ## Ingredients
 - **1 block** tofu
@@ -24,5 +25,4 @@
 4. In a small pot add **BBQ sauce (some)**, **worchestershire sauce (some)**, **sesame oil (some)**, **soy sauce (some)**, **brown sugar (some)**, and **sriracha (some)** and combine over low heat.
 5. Generously season the steaks with **black pepper (some)**, **garlic powder (some)**, and **salt (some)**.
 6. Fry the steaks in sesame oil and **olive oil (some)** until crispy.
-7. Remove the tofu and coat each piece in the sauce.
-8. Enjoy\!
+7. Remove the tofu and coat each piece in the sauce and enjoy\!
