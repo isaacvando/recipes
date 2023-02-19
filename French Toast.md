@@ -1,6 +1,6 @@
 # French Toast
 
-**source:** https://www.mccormick.com/recipes/breakfast\-brunch/quick\-and\-easy\-french\-toast  
+**source:** https://www.mccormick.com/recipes/breakfast-brunch/quick-and-easy-french-toast  
 
 ## Ingredients
 - **1** egg

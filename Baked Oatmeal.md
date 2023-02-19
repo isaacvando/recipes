@@ -1,6 +1,6 @@
 # Baked Oatmeal
 
-**Source:** https://cookieandkate.com/baked\-oatmeal\-recipe/  
+**Source:** https://cookieandkate.com/baked-oatmeal-recipe/  
 
 ## Ingredients
 - **2/3 cups** chopped nuts
@@ -30,5 +30,5 @@
 5. Melt the **butter (3 tbs)** and combine with the dry ingredients.
 6. In another mixing bowl combine the **milk (1 2/3 cups)**, **eggs (2)**, and **vannila extract (2 tsp)**.
 7. Spread two thirds of the **berries (2 1/2 cup)** over the bottom of the baking dish followed by the dry mixture. Add the rest of the berries on top and evenly distribute the wet mixture over the baking dish. Make sure the juice gets all up in there.
-8. Bake for **42\-47 minutes**.
+8. Bake for **42-47 minutes**.
 9. Serve with maple syrup and enjoy\!

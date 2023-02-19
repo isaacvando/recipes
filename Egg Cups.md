@@ -1,6 +1,6 @@
 # Egg Cups
 
-**Source:** https://www.allrecipes.com/recipe/278443/easy\-breakfast\-egg\-muffins/  
+**Source:** https://www.allrecipes.com/recipe/278443/easy-breakfast-egg-muffins/  
 **Notes:** A mix of cheeses including parmesan is good.  
 
 ## Ingredients
