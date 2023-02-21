@@ -17,3 +17,5 @@
 [Honey Garlic Pork Chops](./Honey%20Garlic%20Pork%20Chops.md)
 
 [Spam Musubis](./Spam%20Musubis.md)
+
+[Garlic Sesame Tofu](./Garlic%20Sesame%20Tofu.md)
