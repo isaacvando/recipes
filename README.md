@@ -20,5 +20,7 @@
 
 [Garlic Sesame Tofu](./Garlic%20Sesame%20Tofu.md)
 
+[Tomato Soup](./Tomato%20Soup.md)
+
 ## Dessert
 [Pistachio Fluff](./Pistachio%20Fluff.md)
