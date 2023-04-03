@@ -24,3 +24,10 @@
 
 ## Dessert
 [Pistachio Fluff](./Pistachio%20Fluff.md)
+
+
+## Misc
+
+[About](./about.md)
+
+[Ideas and to-cook](./misc.md)
