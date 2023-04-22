@@ -22,6 +22,8 @@
 
 [Tomato Soup](./Tomato%20Soup.md)
 
+[Lentil Soup](./Lentil%20Soup.md)
+
 ## Dessert
 [Pistachio Fluff](./Pistachio%20Fluff.md)
 
