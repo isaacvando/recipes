@@ -27,6 +27,8 @@
 ## Dessert
 [Pistachio Fluff](./Pistachio%20Fluff.md)
 
+[Snickers Dip](./Snickers%20Dip.md)
+
 
 ## Misc
 
