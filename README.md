@@ -2,32 +2,32 @@
 
 ## Breakfast
 
-[Baked Oatmeal](./Baked%20Oatmeal.md)
+[Baked Oatmeal](./src/Baked%20Oatmeal.md)
 
-[Egg Cups](./Egg%20Cups.md)
+[Egg Cups](./src/Egg%20Cups.md)
 
-[French Toast](./French%20Toast.md)
+[French Toast](./src/French%20Toast.md)
 
 ## Lunch/Dinner
 
-[Tangy BBQ Tofu](./Tangy%20BBQ%20Tofu.md)
+[Tangy BBQ Tofu](./src/Tangy%20BBQ%20Tofu.md)
 
-[Rice and Lentils](./Rice%20and%20Lentils.md)
+[Rice and Lentils](./src/Rice%20and%20Lentils.md)
 
-[Honey Garlic Pork Chops](./Honey%20Garlic%20Pork%20Chops.md)
+[Honey Garlic Pork Chops](./src/Honey%20Garlic%20Pork%20Chops.md)
 
-[Spam Musubis](./Spam%20Musubis.md)
+[Spam Musubis](./src/Spam%20Musubis.md)
 
-[Garlic Sesame Tofu](./Garlic%20Sesame%20Tofu.md)
+[Garlic Sesame Tofu](./src/Garlic%20Sesame%20Tofu.md)
 
-[Tomato Soup](./Tomato%20Soup.md)
+[Tomato Soup](./src/Tomato%20Soup.md)
 
-[Lentil Soup](./Lentil%20Soup.md)
+[Lentil Soup](./src/Lentil%20Soup.md)
 
 ## Dessert
-[Pistachio Fluff](./Pistachio%20Fluff.md)
+[Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
-[Snickers Dip](./Snickers%20Dip.md)
+[Snickers Dip](./src/Snickers%20Dip.md)
 
 
 ## Misc
@@ -35,3 +35,4 @@
 [About](./about.md)
 
 [Ideas and to-cook](./misc.md)
+
