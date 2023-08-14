@@ -24,6 +24,8 @@
 
 [Lentil Soup](./src/Lentil%20Soup.md)
 
+[Tuscan Chicken Pasta](./Tuscan%20Chicken%20Pasta.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
