@@ -29,6 +29,8 @@
 
 [Snickers Dip](./src/Snickers%20Dip.md)
 
+[Creamy Strawberry Jello Dessert](./src/Creamy%20Strawberry%20Jello%20Dessert.md)
+
 
 ## Misc
 
