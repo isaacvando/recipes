@@ -26,6 +26,8 @@
 
 [Tuscan Chicken Pasta](./src/Tuscan%20Chicken%20Pasta.md)
 
+[Birria Tacos](./src/Birria%20Tacos.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
