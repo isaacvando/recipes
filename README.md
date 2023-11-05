@@ -28,7 +28,7 @@
 
 [Birria Tacos](./src/Birria%20Tacos.md)
 
-[New Year's Day Soup](./New%20Year's%20Day%20Soup.md)
+[New Year's Day Soup](./src/New%20Year's%20Day%20Soup.md)
 
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
@@ -36,6 +36,8 @@
 [Snickers Dip](./src/Snickers%20Dip.md)
 
 [Creamy Strawberry Jello Dessert](./src/Creamy%20Strawberry%20Jello%20Dessert.md)
+
+[Kuchen](./src/Kuchen.md)
 
 
 ## Misc
