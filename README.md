@@ -28,6 +28,8 @@
 
 [Birria Tacos](./src/Birria%20Tacos.md)
 
+[New Year's Day Soup](./New%20Year's%20Day%20Soup.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
