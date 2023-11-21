@@ -30,6 +30,8 @@
 
 [New Year's Day Soup](./src/New%20Year's%20Day%20Soup.md)
 
+[Chicken Pot Pie](./src/Chicken%20Pot%20Pie.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
