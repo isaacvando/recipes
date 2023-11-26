@@ -32,6 +32,8 @@
 
 [Chicken Pot Pie](./src/Chicken%20Pot%20Pie.md)
 
+[Drunken Noodles](./src/Drunken%20Noodles.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
