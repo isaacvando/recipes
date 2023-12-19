@@ -8,6 +8,8 @@
 
 [French Toast](./src/French%20Toast.md)
 
+[Oatmeal Banana Muffins](./src/Oatmeal%20Banana%20Muffins.md)
+
 ## Lunch/Dinner
 
 [Tangy BBQ Tofu](./src/Tangy%20BBQ%20Tofu.md)
