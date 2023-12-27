@@ -2,6 +2,7 @@
 
 **gluten free:** If you use gluten-free flour, you will need to make a lot more dough as it does not get as thin as wheat flour.  
 **freezing:** These freeze well. If you would like so, freeze the dumplings before cooking. You can then cook them directly from frozen.  
+**adapted from:** Ben  
 
 ## Ingredients
 - **1/4 lbs** ground pork
