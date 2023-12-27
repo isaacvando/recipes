@@ -36,6 +36,8 @@
 
 [Drunken Noodles](./src/Drunken%20Noodles.md)
 
+[Dumplings](./src/Dumplings.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
@@ -44,6 +46,9 @@
 [Creamy Strawberry Jello Dessert](./src/Creamy%20Strawberry%20Jello%20Dessert.md)
 
 [Kuchen](./src/Kuchen.md)
+
+## Sauces
+[Dumpling Sauce](./src/Dumpling%20Sauce.md)
 
 
 ## Misc
