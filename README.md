@@ -38,6 +38,8 @@
 
 [Dumplings](./src/Dumplings.md)
 
+[Quiche](./src/Quiche.md)
+
 ## Dessert
 [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 
