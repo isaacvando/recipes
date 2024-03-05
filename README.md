@@ -21,12 +21,15 @@
 - [Drunken Noodles](./src/Drunken%20Noodles.md)
 - [Dumplings](./src/Dumplings.md)
 - [Quiche](./src/Quiche.md)
+- [Chicken Sausage Gumbo](./src/Chicken%20Sausage%20Gumbo.md)
+- [Chicken Pot Pie Twice Baked Potatoes](./src/Chicken%20Pot%20Pie%20Twice%20Baked%20Potatoes.md)
 
 ## Dessert
 - [Pistachio Fluff](./src/Pistachio%20Fluff.md)
 - [Snickers Dip](./src/Snickers%20Dip.md)
 - [Creamy Strawberry Jello Dessert](./src/Creamy%20Strawberry%20Jello%20Dessert.md)
 - [Kuchen](./src/Kuchen.md)
+- [No Bake Cookies](./src/No%20Bake%20Cookies.md)
 
 ## Sauces
 - [Dumpling Sauce](./src/Dumpling%20Sauce.md)
