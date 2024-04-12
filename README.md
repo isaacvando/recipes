@@ -30,6 +30,7 @@
 - [Creamy Strawberry Jello Dessert](./src/Creamy%20Strawberry%20Jello%20Dessert.md)
 - [Kuchen](./src/Kuchen.md)
 - [No Bake Cookies](./src/No%20Bake%20Cookies.md)
+- [Silken Tofu Chocolate Mousse](./src/Silken%20Tofu%20Chocolate%20Mousse.md)
 
 ## Sauces
 - [Dumpling Sauce](./src/Dumpling%20Sauce.md)
