@@ -26,6 +26,7 @@
 - [Chicken Sausage Gumbo](./src/Chicken%20Sausage%20Gumbo.md)
 - [Chicken Pot Pie Twice Baked Potatoes](./src/Chicken%20Pot%20Pie%20Twice%20Baked%20Potatoes.md)
 - [Crockpot Pulled Pork](./src/Crockpot%20Pulled%20Pork.md)
+- [Minestrone Soup](./src/Minestrone%20Soup.md)
 
 ## Dessert
 
