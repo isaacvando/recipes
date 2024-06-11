@@ -28,6 +28,9 @@
 - [Crockpot Pulled Pork](./src/Crockpot%20Pulled%20Pork.md)
 - [Minestrone Soup](./src/Minestrone%20Soup.md)
 
+## Sides
+- [Carrot Rice](./src/Carrot%20Rice.md)
+
 ## Dessert
 
 - [Pistachio Fluff](./src/Pistachio%20Fluff.md)
