@@ -31,6 +31,7 @@
 ## Sides
 
 - [Carrot Rice](./src/Carrot%20Rice.md)
+- [Cucumber Tomato Avocado Salad](./src/Cucumber%20Tomato%20Avocado%20Salad.md)
 
 ## Dessert
 
