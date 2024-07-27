@@ -29,6 +29,7 @@
 - [Minestrone Soup](./src/Minestrone%20Soup.md)
 
 ## Sides
+
 - [Carrot Rice](./src/Carrot%20Rice.md)
 
 ## Dessert
@@ -40,9 +41,10 @@
 - [No Bake Cookies](./src/No%20Bake%20Cookies.md)
 - [Silken Tofu Chocolate Mousse](./src/Silken%20Tofu%20Chocolate%20Mousse.md)
 
-## Sauces
+## Sauce/Dressing
 
 - [Dumpling Sauce](./src/Dumpling%20Sauce.md)
+- [Lemon Vinaigrette](./src/Lemon%20Vinaigrette.md)
 
 ## Misc
 
