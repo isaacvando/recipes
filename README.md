@@ -27,6 +27,7 @@
 - [Chicken Pot Pie Twice Baked Potatoes](./src/Chicken%20Pot%20Pie%20Twice%20Baked%20Potatoes.md)
 - [Crockpot Pulled Pork](./src/Crockpot%20Pulled%20Pork.md)
 - [Minestrone Soup](./src/Minestrone%20Soup.md)
+- [Marry Me Chicken Soup](./src/Marry%20Me%20Chicken%20Soup.md)
 
 ## Sides
 
