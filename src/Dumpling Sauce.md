@@ -1,11 +1,13 @@
 # Dumpling Sauce
 
-
 ## Ingredients
-- **some** soy sauce
-- **some** rice vinegar
-- **some** sesame oil
-- **some** chili flakes
+
+- soy sauce
+- rice vinegar
+- sesame oil
+- chili flakes
 
 ## Steps
-1. Combine **soy sauce (some)**, **rice vinegar (some)**, **sesame oil (some)**, and **chili flakes (some)**.
+
+1. Combine soy sauce, rice vinegar, sesame oil, and chili flakes.
+
