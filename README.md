@@ -29,6 +29,7 @@
 - [Minestrone Soup](./src/Minestrone%20Soup.md)
 - [Marry Me Chicken Soup](./src/Marry%20Me%20Chicken%20Soup.md)
 - [Autumnal Meatball Tray Bake](./src/Autumnal%20Meatball%20Tray%20Bake.md)
+- [Creamy Beef and Shells](./src/Creamy Beef and Shells.md)
 
 ## Sides
 
